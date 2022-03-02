@@ -1,0 +1,58 @@
+         .winner{
+                          color: green;
+      }
+      .loser{
+                          color: red;
+      }  
+      #game{
+            text-align: center;
+            background-color: gray;
+           }
+      #p1Button{
+            margin-top: 10px;
+            background-color: rgb(35, 168, 168);
+            height: 40px;
+            width: 150px;
+            text-shadow: none;
+            border-radius: 50px;
+            color: white;
+            font-weight: bold;
+            border-color: rgb(185, 40, 40);
+      }
+      #p2Button{
+            margin-top: 10px;
+            background-color: rgb(35, 168, 168);
+            height: 40px;
+            width: 150px;
+            box-shadow: none;
+            text-shadow: none;
+            border-radius: 50px;
+            color: white;
+            font-weight: bold;
+            border-color: rgb(185, 40, 40);
+          
+      }
+      #reset{
+            color: white;
+            background-color: rgb(59, 167, 38);
+            width: 70px;
+            height: 30px ;
+            margin-top: 10px;
+            border-radius: 5px;
+      }
+      
+      #player2{
+            width: 60px;
+            height: 30px;
+            margin-top: 20px;
+            background-color: rgb(170, 100, 8);
+            color: white;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: 200;
+            border-radius: 5px;
+      }
+      #p1Display, #p2Display{
+            font-size: xx-large;
+      }
+
+    
